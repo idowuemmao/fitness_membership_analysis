@@ -1,8 +1,6 @@
 ---
 
-# **🔹 GitHub README**
-
-## 📌 Fitness Membership Analytics Report – Power BI
+## 📌 Fitness Membership Analytics Report – Power BI by Emmanuel Idowu
 
 ### **Overview**
 
