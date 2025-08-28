@@ -7,7 +7,7 @@
 ### **Overview**
 
 This project is part of the **Fitness Membership Analytics Challenge**, where I assumed the role of a **Data Analyst at MyGym**, a growing fitness center chain in California.
-The goal: uncover **actionable insights** around **retention, revenue, and engagement** to optimize membership offers, pricing, and customer experience.
+The goal was to uncover **actionable insights** around **retention, revenue, and engagement** to optimize membership offers, pricing, and customer experience.
 
 ---
 
