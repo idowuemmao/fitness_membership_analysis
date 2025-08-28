@@ -135,9 +135,3 @@ This report demonstrates how **data storytelling with Power BI** can transform r
 #DataAnalytics #PowerBI #CustomerRetention #FitnessAnalytics #DataStorytelling
 
 ---
-
-🔥 If you found this interesting, feel free to fork this repo, suggest improvements, or share your thoughts on **fitness analytics + customer retention strategies**!
-
----
-
-Do you want me to also design a **mock “executive summary slide” (PowerPoint-like text)** that you can attach to the GitHub repo or LinkedIn carousel, summarizing the top 5 insights in a visual storytelling style?
